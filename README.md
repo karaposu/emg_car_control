@@ -1,5 +1,7 @@
 # emg_car_control
 
+/*********English Language ************/
+
 In this project my main objective is to read raw EMG data from  frontal arm and  filter these values in microcontroller eviroment.I am using self made EMG circuit board and Stm32f4 for a microcontroller. 
 
 Since this is my final year project in University i am pretty  acquainted with these codes. My filtering algoritm is working . Now i am working on about control mechanism with uses processed values from stm32f4. 
