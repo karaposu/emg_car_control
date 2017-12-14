@@ -2,7 +2,7 @@
 
 /*********English Language ************/
 
-In this project my main objective is to read raw EMG data from  frontal arm and  filter these values in microcontroller eviroment.I am using self made EMG circuit board and Stm32f4 for a microcontroller. 
+In this project my main objective is to read raw EMG data from  frontal arm and  filter these values in microcontroller eviroment.I am using self made EMG circuit board and Stm32f4 for a microcontroller.  For ide I chose Keil Mdk Arm 5 .
 
 Since this is my final year project in University i am pretty  acquainted with these codes. My filtering algoritm is working . Now i am working on about control mechanism with uses processed values from stm32f4. 
 
@@ -14,7 +14,8 @@ Please Feel free to commit and advice .
 
 /**********Turkis Language ************/
 
-Bu projede amacım işlenmemiş Emg verilerini ön kaslardan okuyarak bu verileri Stm32f4 aracılıgı ile filtrelemek. Ütüleme usulü Baskı Devre ile üretilmiş Emg devresi kullanıyorum.
+Bu projede amacım işlenmemiş Emg sinyallerini ön kol kaslaınrdan okuyarak bu verileri Stm32f4 aracılıgı ile filtrelemek.Ve bu filtrelenmiş veriler ile herhangibi robotik mekanizmanın konturolunu yapmak .
+Bu projede Ütüleme usulü Baskı Devre ile üretilmiş Emg devresi kullanıyorum. Yazılım olarak Keil Mdk 5 .
 
 Üniverste bitirme prjem oldugu için kodlarla uzun bir zaman geçirdim. İlk hallerine nazaran çok farklılar. Şuanda işlenmiş verileri kullanarak  kolun sag mı sol mu stabil mi durdugunu anlayacak bir kontrol mekanizması üzerine çalışıyorum. 
 
