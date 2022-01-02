@@ -5,7 +5,9 @@
 
 
 Reading raw EMG signals using a custom made PCB which includes 10 bit ADC + STM32F4 MCU 
+
 Designing IIR filter for signal selection and manipulation in MATLAB
+
 Implementing filter and control logic in code
 
 I hereby thank my supervisor teacher "Umut Mayeti"n for all the volunteer help he gave us and my genious friend "Hikmet Celik" for helping me with optimizing filtering codes. 
