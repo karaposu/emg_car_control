@@ -4,11 +4,15 @@
 
 
 
-Reading raw EMG signals using a custom made PCB which includes 10 bit ADC + STM32F4 MCU 
+Reading (DMA) raw EMG signals using a custom made PCB which includes 10 bit ADC + STM32F4 MCU + Bluetooth
 
 Designing IIR filter for signal selection and manipulation in MATLAB
 
-Implementing filter and control logic in code
+Implementing filter in code and processing signals
+
+Sending processed values via Bluetooth (UART with timers) to car mechanism
+
+Implementing control logic to control the car mechanism
 
 I hereby thank my supervisor teacher "Umut Mayetin: for all the volunteer help he gave us and my genious friend "Hikmet Celik" for helping me with implementation logic and also for calling my well-made Turkish tea "not hot enough" 
 
