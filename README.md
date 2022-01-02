@@ -10,7 +10,7 @@ Designing IIR filter for signal selection and manipulation in MATLAB
 
 Implementing filter and control logic in code
 
-I hereby thank my supervisor teacher "Umut Mayeti"n for all the volunteer help he gave us and my genious friend "Hikmet Celik" for helping me with optimizing filtering codes. 
+I hereby thank my supervisor teacher "Umut Mayetin: for all the volunteer help he gave us and my genious friend "Hikmet Celik" for helping me with implementation logic and also for calling my well-made Turkish tea "not hot enough" 
 
 
 /********** Turkish ************/
