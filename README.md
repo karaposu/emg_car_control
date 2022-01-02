@@ -2,14 +2,13 @@
 
 /******** English ************/
 
-In this project my main objective is to read raw EMG data from  frontal arm and  filter these values in microcontroller eviroment.I am using self made EMG circuit board and Stm32f4 for a microcontroller.  For ide I chose Keil Mdk Arm 5 .
 
-Since this is my final year project in University i am pretty  acquainted with these codes. My filtering algoritm is working . Now i am working on about control mechanism with uses processed values from stm32f4. 
 
-I hereby thank my supervisor teacher Umut Mayetin for all the volunteer help he gave us . I also like to thank "Erdem Civan"  and "Bekir Guler" for helping me with Pcb design and "Hikmet Celik" for helping me with optimizing filtering codes. 
+Reading raw EMG signals using a custom made PCB which includes 10 bit ADC + STM32F4 MCU 
+Designing IIR filter for signal selection and manipulation in MATLAB
+Implementing filter and control logic in code
 
-Please Feel free to commit and advice .
-
+I hereby thank my supervisor teacher "Umut Mayeti"n for all the volunteer help he gave us and my genious friend "Hikmet Celik" for helping me with optimizing filtering codes. 
 
 
 /********** Turkish ************/
